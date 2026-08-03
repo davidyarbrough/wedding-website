@@ -15,7 +15,7 @@ and is distributed here under the MIT License.
 
 ## Overview
 
-Here you can see a [live version of the site](https://francesco-puppo.github.io/Wedding-Website-Template/).
+Here you can see a [live version of the site](https://davidyarbrough.github.io/wedding-website/).
 
 ![The home page](/assets/preview/wedding-preview-01.jpg)
 

@@ -28,12 +28,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
-FILE_NAME_0=1965;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Findex.html;0;4
+current_page=0
+FILE_NAME_0=6250;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Findex.html;0;4
 FILE_NAME_1=114;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Fhoneymoon.html;0;4
 FILE_NAME_2=593;None;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2FLICENSE;0;4
 FILE_NAME_3=1962;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Flocation.html;0;4
-FILE_NAME_4=696;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Freadme.md;0;4
+FILE_NAME_4=975;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Freadme.md;0;4
 FILE_NAME_5=2967;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2Fstyle.css;0;4
 FILE_NAME_6=114;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fdavid%2Frepos%2Fwedding-website%2F404.html;0;4
 

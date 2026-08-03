@@ -1,6 +1,7 @@
 # Wedding Website Template
 
-This is a simple, fully responsive wedding website built using only HTML and CSS. It was originally created for my own wedding and, since I think it came out pretty nicely, I decided to share it here.
+This is a simple, fully responsive wedding website built using only HTML and CSS. It is based on the template created by [i-am-fran](https://github.com/i-am-fran/wedding-website-template) 
+and is distributed here under the MIT License.
 
 ## Table of Contents
 

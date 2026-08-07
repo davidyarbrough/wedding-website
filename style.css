@@ -75,10 +75,28 @@ h1 a:hover {
 
 /* Settings for the first row of every page */
 section.hero {
-    background-color: var(--beige);
-    height: 100vh;
+  position: relative;  
+  background-image: url('assets/EandU1.jpg');
+  background-color: var(--green);
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.65;
+  /* 
+  background:
+	linear-gradient(0deg, rgba(var(--red), 0.5), rgba(var(--beige), 0.5)),
+	url('assets/EandU1.jpg');
+  background-size: cover;
+  background-position: center;background-attachment: fixed;
+  background-image: url('assets/EandU1.jpg');
+  background-color: rgba(155, 155, 155, 0.55);
+  */
+  height: 100vh;
 }
 
+section.heroshade {
+    background-color: var(--red) ;
+}
 /* Non-hero sections */
 section.standard {
     padding: 12rem;
@@ -638,7 +656,7 @@ ANIMATIONS
 }
 
 
-.focus-in {
+.focus-in {  
     -webkit-animation: focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530);
     animation: focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530);
 }

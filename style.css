@@ -73,10 +73,38 @@ h1 a:hover {
     color: var(--red);
 }
 
+section.carousel {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-color: #000000;
+  animation: backgroundRotate 28s infinite;
+}
+
+@keyframes backgroundRotate {
+  0% {
+    background-image: url('assets/normalized/normalized-solidblack.jpg');
+  }
+  20% {
+    background-image: url('assets/normalized/normalized-EandU1.jpg');
+  }
+  40% {
+    background-image: url('assets/normalized/normalized-EandU2_cropped.jpg');
+  }
+  60% {
+    background-image: url('assets/normalized/normalized-EandU3_cropped.jpg');
+  }
+  80% {
+    background-image: url('assets/normalized/normalized-EandU4_cropped.jpeg');
+  }
+  100% {
+    background-image: url('assets/normalized/normalized-solidblack.jpg');
+  }
+}
+
 /* Settings for the first row of every page */
 section.hero {
   position: relative;  
-  background-image: url('assets/EandU1.jpg');
   background-color: var(--beige);
   background-blend-mode: multiply;
   background-size: cover;
@@ -94,9 +122,6 @@ section.hero {
   height: 100vh;
 }
 
-section.heroshade {
-    background-color: var(--red) ;
-}
 /* Non-hero sections */
 section.standard {
     padding: 12rem;

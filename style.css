@@ -17,11 +17,11 @@
 }
 
 @font-face {
-    font-family: 'Amalfi-Coast';
-    src: url('assets/fonts/Amalfi-Coast.ttf.woff') format('woff'),
-        url('assets/fonts/Amalfi-Coast.ttf.svg#Amalfi-Coast') format('svg'),
-        url('assets/fonts/Amalfi-Coast.ttf.eot'),
-        url('assets/fonts/Amalfi-Coast.ttf.eot?#iefix') format('embedded-opentype');
+    font-family: 'Heraclito';
+    src: url('assets/fonts/heraclito/Heraclito-Regular.ttf') format('truetype'),
+		url('assets/fonts/heraclito/Heraclito-Bold.ttf') format('truetype'),
+		url('assets/fonts/heraclito/Heraclito-BoldItalic.ttf') format('truetype'),
+		url('assets/fonts/heraclito/Heraclito-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -58,7 +58,7 @@ h1,
 h2,
 h3,
 p {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cardo', serif;
     color: var(--text);
     font-weight: 300;
 }
@@ -165,7 +165,7 @@ HOME
 
 /* Font settings for the main title */
 .home h1 {
-    font-family: 'Amalfi-Coast';
+    font-family: 'Cardo';
     text-align: center;
     line-height: 1.05em;
     font-size: 5rem;
@@ -193,6 +193,7 @@ HOME
 
 /* Sets the wedding date below the h1 */
 .home .date {
+    font-family: 'Cardo';
     color: var(--green);
     font-size: 2.2rem;
     margin-top: 2rem;
@@ -249,6 +250,7 @@ p.hugetext {
 }
 
 .daje {
+    font-family: 'Cardo';
     font-weight: bolder;
     font-style: italic;
 }

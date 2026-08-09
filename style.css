@@ -132,7 +132,7 @@ section.standard {
     background-color: white;
 }
 
-section.accomodation {
+section.accommodation {
     padding: 12rem;
     z-index: 2;
     background-color: #e4d591;
@@ -271,7 +271,7 @@ p.hugetext {
     font-style: italic;
 }
 
-p.accomodation {
+p.accommodation {
     font-family: 'Cardo';
     font-weight: bold;
     color: #785423
@@ -583,9 +583,9 @@ div.navigation a.logo:hover .test {
     z-index: 1;
 }
 
-/* Accomodations */
+/* accommodations */
 
-#accomodations .bigtext {
+#accommodations .bigtext {
     margin-bottom: 3rem;
 }
 

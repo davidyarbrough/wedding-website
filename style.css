@@ -195,6 +195,13 @@ HOME
 }
 
 /* Sets the wedding date below the h1 */
+.home .intro {
+    font-family: 'Cardo';
+    color: var(--green);
+    font-size: 4.5rem;
+    margin-top: 2rem;
+}
+
 .home .date {
     font-family: 'Cardo';
     color: var(--green);

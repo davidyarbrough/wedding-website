@@ -132,6 +132,12 @@ section.standard {
     background-color: white;
 }
 
+section.accomodation {
+    padding: 12rem;
+    z-index: 2;
+    background-color: #e4d591;
+}
+
 /* All images that need to stay on top of other elements  */
 .img-over {
     display: block;
@@ -265,6 +271,12 @@ p.hugetext {
     font-style: italic;
 }
 
+p.accomodation {
+    font-family: 'Cardo';
+    font-weight: bold;
+    color: #785423
+}
+
 div.divider {
     width: 25%;
     border-bottom: solid 1.5px var(--green);
@@ -282,7 +294,7 @@ div.divider.bottom {
 
 
 p.subtext {
-    font-size: 1.5rem;
+    font-size: 2.4rem;
     margin: 0px;
 }
 
